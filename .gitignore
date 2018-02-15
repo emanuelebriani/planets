@@ -1,0 +1,8 @@
+a.out
+a.dat
+b.dat
+b.out
+results/a.out
+results/b.out
+*.dat
+
